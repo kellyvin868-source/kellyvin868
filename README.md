@@ -29,19 +29,19 @@
     <tr>
       <td width="25%" align="center">
         <h3>Full-Stack Web Development</h3>
-        <p>Building responsive, scalable web applications using HTML, CSS, JavaScript, Node.js, and MongoDB</p>
+        <p>Building responsive, scalable web applications </p>
       </td>
       <td width="25%" align="center">
         <h3>Data Analysis & Visualization</h3>
-        <p>Data-driven insights using Python, Pandas, NumPy, and interactive dashboards with Plotly/Power BI</p>
+        <p>Data-driven insights  and interactive dashboards.</p>
       </td>
       <td width="25%" align="center">
         <h3>Frontend Engineering</h3>
-        <p>Creating smooth user interfaces with React, vanilla JS, and dynamic SPA experiences</p>
+        <p>Creating smooth user interfaces  and dynamic SPA experiences</p>
       </td>
       <td width="25%" align="center">
         <h3>Backend & API Development</h3>
-        <p>RESTful API design, server-side logic, database integration, and secure authentication</p>
+        <p>RESTful API design, database integration, and secure authentication</p>
       </td>
     </tr>
   </table>
