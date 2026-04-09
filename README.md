@@ -41,7 +41,7 @@
       </td>
       <td width="25%" align="center">
         <h3>Backend & API Development</h3>
-        <p>RESTful API design, database integration, and secure authentication</p>
+        <p>RESTful API design  and secure authentication</p>
       </td>
     </tr>
   </table>
