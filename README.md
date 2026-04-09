@@ -12,43 +12,40 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-siele-696541340/">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/siele0579">
+  <a href="#">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter"/>
   </a>
-  <a href="https://manusiele.kesug.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Portfolio"/>
   </a>
 </div>
 
----
-
-## Professional Focus Areas
+---## Professional Focus Areas
 <div align="center">
   <table>
     <tr>
       <td width="25%" align="center">
-        <h3>Mobile Development</h3>
-        <p>Cross-platform and native experiences with Flutter and Dart</p>
+        <h3>Full-Stack Web Development</h3>
+        <p>Building responsive, scalable web applications using HTML, CSS, JavaScript, Node.js, and MongoDB</p>
       </td>
       <td width="25%" align="center">
-        <h3>AI Engineering</h3>
-        <p>ML/DL model development and deployment</p>
+        <h3>Data Analysis & Visualization</h3>
+        <p>Data-driven insights using Python, Pandas, NumPy, and interactive dashboards with Plotly/Power BI</p>
       </td>
       <td width="25%" align="center">
-        <h3>Web Systems</h3>
-        <p>Full-stack architecture and implementation</p>
+        <h3>Frontend Engineering</h3>
+        <p>Creating smooth user interfaces with React, vanilla JS, and dynamic SPA experiences</p>
       </td>
       <td width="25%" align="center">
-        <h3>Digital Health</h3>
-        <p>Health tech solutions and innovations</p>
+        <h3>Backend & API Development</h3>
+        <p>RESTful API design, server-side logic, database integration, and secure authentication</p>
       </td>
     </tr>
   </table>
 </div>
-
 
 
 ## GitHub Analytics
@@ -56,9 +53,9 @@
   <table>
     <tr>
      <td colspan="2" align="center">
-       <img 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
-         alt="GitHub Streak"
+     <img 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=kellyvin868&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
+     alt="GitHub Streak">
        />
      </td>
     </tr>
